@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 45612-h/images/cover.jpg
 description: Illustrated by the translator.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45612#Sub-la-Meznokta-SunoNordlandaj-Rakontoj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2014-05-08'
 gutenberg_type: Text
